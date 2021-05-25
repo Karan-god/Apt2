@@ -1,0 +1,18 @@
+2
+saveGame
+place R1 at G8
+place B1 at H8
+place R5 at G7
+place R3 at G6
+place P1 at I8
+place B3 at F6
+place B6 at H9
+place P6 at I9
+place Y3 at E6
+place B5 at H10
+place G5 at G10
+place R6 at G5
+place Y2 at E7
+place Y6 at E8
+place G1 at G11
+save newSaveGame
